@@ -1,16 +1,12 @@
-### Hi there 👋
+<div align="center">
+<img src="https://media.giphy.com/media/bV2fSyJfs4cIRnGdQ2/giphy.gif" width=100 />
 
-<!--
-**georgerv85/georgerv85** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  <div>
+<a href="https://www.linkedin.com/in/george-rv-rv-b25367280" target="_blank" >
+<img src="https://img.shields.io/badge/likendin-blue"/> 
+</a> 
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a href="https://www.youtube.com/channel/UCJIZe9277-JD9GGzMVaXvfA" target="_blank" > 
+<img src="https://img.shields.io/badge/youtube-red"/> 
+</a> 
+</div>
