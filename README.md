@@ -39,5 +39,9 @@
    4. Ground Instructor (course)
    5. Εnergy and Εnvironmental Μanagement of Αrmed Forces Units (course)
    6. **Web Developer (current course**)
-  
-  
+
+  ---
+
+  - My stats
+    
+  [![GitHub Streak](https://streak-stats.demolab.com?user=georgerv85)](https://git.io/streak-stats)
