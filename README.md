@@ -18,7 +18,12 @@
 
 ### 👮 About me: 
 
-- **I am Airspace Defense Officer At Hellenic Air Force 🇬🇷**
+- **I am Airspace Defense Officer At Hellenic Air Force 🇬🇷 and Web Developer Student** 
+            <img width=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" /> 
+            <img width=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/woocommerce/woocommerce-original.svg" />
+          
+          
+
 - *I have:*
   
  1. Over 16 years expierence as Tactical Control Officer of Patriot Air and Missile Defense System
@@ -28,10 +33,13 @@
  5. Over 8 years Chief Of Τraining and Standardization at Patriot Air and Missile Defense System
   
 
- - *education and courses:*
+ - **education and courses:**
 
-   *1. I graduated from Hellenic Air Force Academy* 
-  
-  
+   1. I graduated from Hellenic Air Force Academy
+   2. Αccident Prevention Officer (course)
+   3. Air Traffic Controller (course)
+   4. Ground Instructor (course)
+   5. Εnergy and Εnvironmental Μanagement of Αrmed Forces Units (course)
+   6. **Web Developer (current course**)
   
   
