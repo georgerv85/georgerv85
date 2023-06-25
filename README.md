@@ -3,7 +3,7 @@
 
   <div>
 <a href="https://www.linkedin.com/in/george-arvanitis-b25367280/" target="_blank">
-<img width=70 src="https://img.shields.io/badge/likendin-blue"/> 
+<img width=70 src="https://img.shields.io/badge/linkedin-blue"/> 
 </a> 
 
 <a href="https://www.youtube.com/channel/UCJIZe9277-JD9GGzMVaXvfA" target="_blank"> 
