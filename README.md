@@ -38,8 +38,9 @@
    3. Air Traffic Controller (course)
    4. Ground Instructor (course)
    5. Εnergy and Εnvironmental Μanagement of Αrmed Forces Units (course)
-   6. **Web Developer (current course**)
-
+   6. **Web Developer (current course**) Completed: <img width=30 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" /> 
+            <img width=30 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/woocommerce/woocommerce-original.svg" />
+   
   ---
 
   - My stats
