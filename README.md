@@ -21,11 +21,11 @@
 - **I am Airspace Defense Officer At Hellenic Air Force 🇬🇷**
 - *I have:*
   
-  1. Over 16 years expierence as Tactical Control Officer of Patriot Air and Missile Defense System
-  2. two years experience as Air Traffic Controller
-  3. two years expirience as Instructor of Fighter Weapon School (Air Tactics Center)
-  4. Over 3 years as Lecturer of Hellenic Air Force NCO Academy
-  5. Over 8 years Chief Of Τraining and Standardization at Patriot Air and Missile Defense System
+ 1. Over 16 years expierence as Tactical Control Officer of Patriot Air and Missile Defense System
+ 2. two years experience as Air Traffic Controller
+ 3. two years expirience as Instructor of Fighter Weapon School (Air Tactics Center)
+ 4. Over 3 years as Lecturer of Hellenic Air Force NCO Academy
+ 5. Over 8 years Chief Of Τraining and Standardization at Patriot Air and Missile Defense System
   
 
  - *education and courses:*
