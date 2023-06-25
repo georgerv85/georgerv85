@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://media.giphy.com/media/bV2fSyJfs4cIRnGdQ2/giphy.gif" width=100 />
+<img width=400 src="https://www.defensenews.com/resizer/8QfEfijKyi5oJzflfuRRfyUobh8=/1024x0/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/archetype/QPVEISVJEJGSFBFCV2FQR3XZAQ.jpeg" /> 
 
   <div>
 <a href="https://www.linkedin.com/in/george-arvanitis-b25367280/" target="_blank">
@@ -21,9 +21,7 @@
 - **I am Airspace Defense Officer At Hellenic Air Force 🇬🇷 and Web Developer Student** 
             <img width=30 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" /> 
             <img width=30 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/woocommerce/woocommerce-original.svg" />
-          
-          
-
+         
 - *I have:*
   
  1. Over 16 years expierence as Tactical Control Officer of Patriot Air and Missile Defense System <img width=30 src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQe_PQWIhtKjaFDtWvga82BhOO1_k4iOXpLAGRIvmc2cnzsXj09KcoCtYCGUJgJk8NN4eU&usqp=CAU"> 
