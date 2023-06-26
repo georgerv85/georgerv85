@@ -18,7 +18,7 @@
 
 ### 👮 About me: 
 
-- **I am Airspace Defense Officer At Hellenic Air Force 🇬🇷 and Web Developer Student** 
+- <ins>**I am Airspace Defense Officer At Hellenic Air Force 🇬🇷 and Web Developer Student**<ins>
             <img width=30 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" /> 
             <img width=30 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/woocommerce/woocommerce-original.svg" />
          
@@ -31,15 +31,20 @@
  5. Over 8 years Chief Of Τraining and Standardization at Patriot Air and Missile Defense System
   
 
- - **education and courses:**
+ - <ins>**education and courses:**<ins>
 
    1. I graduated from Hellenic Air Force Academy
    2. Αccident Prevention Officer (course)
    3. Air Traffic Controller (course)
    4. Ground Instructor (course)
    5. Εnergy and Εnvironmental Μanagement of Αrmed Forces Units (course)
-   6. **Web Developer (current course**) Completed: <img width=30 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" /> 
+    
+ - <ins>**Web Developer (current courses**)<ins>
+ 
+   - [x] <ins>**Completed<ins>**: <img width=30 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" /> 
             <img width=30 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/woocommerce/woocommerce-original.svg" />
+   - [ ] <ins>**In progress courses<ins>** 
+            <img width=30 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" /> <img width=30 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /> <img width=30 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" /> <img width=30 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" /> <img width=30 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" /> 
    
   ---
 
