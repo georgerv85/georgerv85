@@ -21,6 +21,7 @@
 - <ins>**I am Airspace Defense Officer At Hellenic Air Force 🇬🇷 and Web Developer Student**<ins>
             <img width=30 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" /> 
             <img width=30 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/woocommerce/woocommerce-original.svg" />
+            <img width=60 src="https://logos-world.net/wp-content/uploads/2020/11/GitHub-Logo-700x394.png" /> 
          
 - *I have:*
   
