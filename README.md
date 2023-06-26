@@ -18,10 +18,10 @@
 
 ### 👮 About me: 
 
-- <ins>**I am Airspace Defense Officer At Hellenic Air Force 🇬🇷 and Web Developer Student**<ins>
+- <ins>**I am Airspace Defense Officer At Hellenic Air Force  <img width=30 src="https://yened.files.wordpress.com/2012/12/ceb3ceb5ceb1-small.jpg?w=388&h=400&crop=1" /> and Web Developer Student**<ins>
             <img width=30 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" /> 
             <img width=30 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/woocommerce/woocommerce-original.svg" />
-            <img width=60 src="https://logos-world.net/wp-content/uploads/2020/11/GitHub-Logo-700x394.png" /> 
+            <img width=40 height=30 src="https://w7.pngwing.com/pngs/914/758/png-transparent-github-social-media-computer-icons-logo-android-github-logo-computer-wallpaper-banner-thumbnail.png" /> 
          
 - *I have:*
   
@@ -56,4 +56,3 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=georgerv85&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats) 
 
 ---
-          
