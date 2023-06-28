@@ -18,7 +18,7 @@
 
 ### 👮 About me: 
 
-- <ins>**I am Airspace Defense Officer At Hellenic Air Force  <img width=30 src="https://yened.files.wordpress.com/2012/12/ceb3ceb5ceb1-small.jpg?w=388&h=400&crop=1" /> and Web Developer Student**<ins>
+- <ins>**I work as Airspace Defense Officer At Hellenic Air Force  <img width=30 src="https://yened.files.wordpress.com/2012/12/ceb3ceb5ceb1-small.jpg?w=388&h=400&crop=1" /> and i am Web Developer Student**<ins>
             <img width=30 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" /> 
             <img width=30 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/woocommerce/woocommerce-original.svg" />
             <img width=40 height=30 src="https://w7.pngwing.com/pngs/914/758/png-transparent-github-social-media-computer-icons-logo-android-github-logo-computer-wallpaper-banner-thumbnail.png" /> 
@@ -37,8 +37,10 @@
    1. I graduated from Hellenic Air Force Academy
    2. Αccident Prevention Officer (course)
    3. Air Traffic Controller (course)
-   4. Ground Instructor (course)
-   5. Εnergy and Εnvironmental Μanagement of Αrmed Forces Units (course)
+   4. Patriot Air and Missile Defense (course)
+   5. Ground Instructor (course)
+   6. Interdisciplinary Air Defense School (course)
+   7. Εnergy and Εnvironmental Μanagement of Αrmed Forces Units (course)
     
  - <ins>**Web Developer (current courses**)<ins>
  
