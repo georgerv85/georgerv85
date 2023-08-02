@@ -25,22 +25,23 @@
          
 - *I have:*
   
- 1. Over 16 years expierence as Tactical Control Officer of Patriot Air and Missile Defense System <img width=30 src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQe_PQWIhtKjaFDtWvga82BhOO1_k4iOXpLAGRIvmc2cnzsXj09KcoCtYCGUJgJk8NN4eU&usqp=CAU"> 
- 2. two years experience as Air Traffic Controller
- 3. two years expirience as Instructor of Fighter Weapon School (Air Tactics Center)
- 4. Over 3 years as Lecturer of Hellenic Air Force NCO Academy
- 5. Over 8 years Chief Of Τraining and Standardization at Patriot Air and Missile Defense System
+ 1. Over 16 years expierence as Tactical Control Officer of Patriot Air and Missile Defense System <img width=30 src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQe_PQWIhtKjaFDtWvga82BhOO1_k4iOXpLAGRIvmc2cnzsXj09KcoCtYCGUJgJk8NN4eU&usqp=CAU">
+ 2. two years expirence as Pilot at Hellenic Air Force
+ 3. two years experience as Air Traffic Controller
+ 4. two years expirience as Instructor of Fighter Weapon School (Air Tactics Center)
+ 5. Over 3 years as Lecturer of Hellenic Air Force NCO Academy
+ 6. Over 8 years Chief Of Τraining and Standardization at Patriot Air and Missile Defense System
   
 
  - <ins>**education and courses:**<ins>
 
    1. I graduated from Hellenic Air Force Academy
-   2. Αccident Prevention Officer (course)
-   3. Air Traffic Controller (course)
-   4. Patriot Air and Missile Defense (course)
-   5. Ground Instructor (course)
-   6. Interdisciplinary Air Defense School (course)
-   7. Εnergy and Εnvironmental Μanagement of Αrmed Forces Units (course)
+   3. Αccident Prevention Officer (course)
+   4. Air Traffic Controller (course)
+   5. Patriot Air and Missile Defense (course)
+   6. Ground Instructor (course)
+   7. Interdisciplinary Air Defense School (course)
+   8. Εnergy and Εnvironmental Μanagement of Αrmed Forces Units (course)
     
  - <ins>**Web Developer (current courses**)<ins>
  
