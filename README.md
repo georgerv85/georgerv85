@@ -1,7 +1,7 @@
 <p align="center"><img src="https://i.imgur.com/A6bWGFl.gif"/>
 <div align="center">
 <img width=600 src="https://www.defensenews.com/resizer/8QfEfijKyi5oJzflfuRRfyUobh8=/1024x0/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/archetype/QPVEISVJEJGSFBFCV2FQR3XZAQ.jpeg" /> 
-</div>
+
 
 <a href="https://www.linkedin.com/in/george-arvanitis-b25367280/" target="_blank">
 <img width=70 src="https://img.shields.io/badge/linkedin-blue"/> 
