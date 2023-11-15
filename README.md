@@ -59,3 +59,22 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=georgerv85&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats) 
 
 ---
+
+# Solar System
+
+## Planets
+1. **Mercury**
+2. **Venus**
+3. **Earth**
+   - Moon
+4. **Mars**
+5. **Jupiter**
+6. **Saturn**
+7. **Uranus**
+8. **Neptune**
+
+## Dwarf Planets
+- **Pluto**
+
+## Sun
+- The central star of our solar system.
