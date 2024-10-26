@@ -138,5 +138,10 @@
 <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Gameplay.gif" alt="Mario Game" width="980">
 
 
-   <h1> Hello </h1>
+   <details>
+                <summary>General Information</summary>
+                <p>Responsible Officer at Hellenic Air Force dedicated to successfully handling wide range of administrative and executive tasks. Skilled relationship builder comfortable working with different personalities. Certified in Web Development - Design offering knowledge of creation - design Web pages and solving code problems.
+                    Proven ability to deliver with utmost integrity and professionalism. Strong interpersonal and communication skills, enabling effective collaboration with cross-functional teams. Seeking opportunities to apply my skills and learn from experienced Web Developers professionals to further develop my career in the field.
+                </p>
+</details>
 
