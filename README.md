@@ -20,7 +20,7 @@
 
 ### 👮 About me: 
 
-- <ins>**I work as Airspace Defense Officer At Hellenic Air Force  <img width=30 src="https://yened.files.wordpress.com/2012/12/ceb3ceb5ceb1-small.jpg?w=388&h=400&crop=1" /><ins>**
+- <ins>**I work as Airspace Defense Officer At Hellenic Air Force  <img width=30 src="https://yened.files.wordpress.com/2012/12/ceb3ceb5ceb1-small.jpg?w=388&h=400&crop=1" /><ins>** <img width=30 src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQe_PQWIhtKjaFDtWvga82BhOO1_k4iOXpLAGRIvmc2cnzsXj09KcoCtYCGUJgJk8NN4eU&usqp=CAU">
 - <ins>**and i am Junior Web Developer**<ins>
             <img width=30 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" /> 
             <img width=30 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/woocommerce/woocommerce-original.svg" />
@@ -28,7 +28,7 @@
          
 - *I have:*
 
--  <details>
+<details>
                 <summary>General Information</summary>
                 <p>Responsible Officer at Hellenic Air Force dedicated to successfully handling wide range of administrative and executive tasks. Skilled relationship builder comfortable working with different personalities. Certified in Web Development - Design offering knowledge of creation - design Web pages and solving code problems.
                     Proven ability to deliver with utmost integrity and professionalism. Strong interpersonal and communication skills, enabling effective collaboration with cross-functional teams. Seeking opportunities to apply my skills and learn from experienced Web Developers professionals to further develop my career in the field.
@@ -187,30 +187,6 @@
 
  <hr>
   
- 1. Over 16 years expierence as Tactical Control Officer of Patriot Air and Missile Defense System <img width=30 src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQe_PQWIhtKjaFDtWvga82BhOO1_k4iOXpLAGRIvmc2cnzsXj09KcoCtYCGUJgJk8NN4eU&usqp=CAU">
- 2. two years expirence as Pilot at Hellenic Air Force
- 3. two years experience as Air Traffic Controller
- 4. two years expirience as Instructor of Fighter Weapon School (Air Tactics Center)
- 5. Over 3 years as Lecturer of Hellenic Air Force NCO Academy
- 6. Over 8 years Chief Of Τraining and Standardization at Patriot Air and Missile Defense System
-  
-
- - <ins>**education and courses:**<ins>
-
-   1. I graduated from Hellenic Air Force Academy
-   3. Αccident Prevention Officer (course)
-   4. Air Traffic Controller (course)
-   5. Patriot Air and Missile Defense (course)
-   6. Ground Instructor (course)
-   7. Interdisciplinary Air Defense School (course)
-   8. Εnergy and Εnvironmental Μanagement of Αrmed Forces Units (course)
-    
- - <ins>**Web Developer (current courses**)<ins>
- 
-   - [x] <ins>**Completed<ins>**: <img width=30 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" /> 
-            <img width=30 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/woocommerce/woocommerce-original.svg" /> <img width=40 height=30 src="https://w7.pngwing.com/pngs/914/758/png-transparent-github-social-media-computer-icons-logo-android-github-logo-computer-wallpaper-banner-thumbnail.png" /> <img width=30 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" /> <img width=30 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /> <img width=30 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" /> <img width=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" /> <img width=30 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" />
-       
-   - [ ] <ins>**In progress courses<ins>**: w3schools HTML Fundamentals course.
   ---
   ## 💻 Favourite Tools and Technologies
 <div>
