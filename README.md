@@ -13,7 +13,7 @@
 </a> 
 
 <a href="[https://www.youtube.com/channel/UCJIZe9277-JD9GGzMVaXvfA](https://www.instagram.com/arvanitis_georg/)" target="_blank"> 
-<img width=70 src="https://img.shields.io/badge/instagram-red"/> 
+<img width=70 height=50 src="https://img.shields.io/badge/instagram-white"/> 
 </a> 
 
 
