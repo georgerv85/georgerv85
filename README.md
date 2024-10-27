@@ -138,10 +138,173 @@
 <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Gameplay.gif" alt="Mario Game" width="980">
 
 
-   <details>
+<details>
                 <summary>General Information</summary>
                 <p>Responsible Officer at Hellenic Air Force dedicated to successfully handling wide range of administrative and executive tasks. Skilled relationship builder comfortable working with different personalities. Certified in Web Development - Design offering knowledge of creation - design Web pages and solving code problems.
                     Proven ability to deliver with utmost integrity and professionalism. Strong interpersonal and communication skills, enabling effective collaboration with cross-functional teams. Seeking opportunities to apply my skills and learn from experienced Web Developers professionals to further develop my career in the field.
                 </p>
+ </details>
+
+ <details>
+                <summary>General Information</summary>
+                <p>Responsible Officer at Hellenic Air Force dedicated to successfully handling wide range of administrative and executive tasks. Skilled relationship builder comfortable working with different personalities. Certified in Web Development - Design offering knowledge of creation - design Web pages and solving code problems.
+                    Proven ability to deliver with utmost integrity and professionalism. Strong interpersonal and communication skills, enabling effective collaboration with cross-functional teams. Seeking opportunities to apply my skills and learn from experienced Web Developers professionals to further develop my career in the field.
+                </p>
+            </details>
+
+ <hr>
+
+<details>
+                <summary>Professional Competencies</summary>
+                    <p>  
+                        Familiarity with Web Development and Design such as:
+                    </p>
+                    <ul>
+                        <li>WordPress: Managing Content, WordPress Advanced Principles, 
+                            Search Engine Optimization (SEO), 
+                            WooCommerce Fundamentals, 
+                            Managing Products and eShop in general
+                        </li>
+                        <li>HTML5/CSS3/JavaScript: Basic Elements, Forms, Bootstrap,
+                            Responsive Planning JavaScript, Objects, Exceptions
+                        </li>
+                        <li>PHP/MySQL: SQL Server, Data Management with MySQL, SQL Server, 
+                            PHP Website Development, Graphical User Interface (GUI) using CSS, 
+                            Object Oriented Programming
+                        </li>
+                    </ul>
 </details>
+
+ <hr>
+
+<details>
+            <summary>Work History</summary>
+
+<p><b><ins>2010/07 - current</ins></b></p>
+
+<p>Officer at Hellenic Air Force
+                    Hellenic Air Force (HAF) (PATRIOT Air and Missile Defense System), Tanagra. 
+                </p>
+<br>
+
+ <p><b><ins>05/2024-Present</ins></b></p>
+                <p><b>Tactical Director of Information & Coordination Center</b></p> 
+                <ul>                                                                        
+                    <li>Superior Control of other Patriot Units and communication with the superior levels.</li>
+                    <li>Carrying out daily tasks (creating reports, managing documents, monitoring deadlines).</li>
+                    <li>Cooperation and Planning Mission with others Units.</li>
+                    <li>Maintaining operational readiness, performed daily system monitoring, verifying integrity and availability of hardware, server resources, systems and key processes.</li>
+                    <li>Developed and implemented daily operations and communication plans.</li>
+                    <li>Conducted regular reviews of operations and identified areas for improvement.</li>
+                    <li>Operator with deployment experience in Saudi Arabia, participated in “NATO Integrated Air Missile Defense Concept”, working efficiently and productively with all team members.</li>
+                </ul>
+ <br>
+
+ <p><b><ins>05/2013-05/2024</ins></b></p>
+                <p><b>Tactical Control Officer of Patriot Air and Missile Defense Weapon System</b></p>
+                <ul>                                                                   
+                        <li>Control of the Squadron’s Airspace of Responsibility. </li> 
+                        <li>Carrying out daily tasks (creating reports, managing documents, monitoring deadlines). </li>
+                        <li>Cooperation and Planning Mission with others Units.</li>
+                        <li>Maintaining operational readiness, performed daily system monitoring, verifying integrity and availability of hardware, server resources, systems and key processes.</li>
+                        <li>Operator with deployment experience in Saudi Arabia, participated in “NATO Integrated Air Missile Defense Concept”, working efficiently and productively with all team members.</li>
+                </ul>
+
+ <br>
+
+<p><b><ins>05/2013-Present</ins></b></p>
+                <p><b>Head Of Education and Standardization</b></p>
+                <ul>                                                                   
+                        <li>Responsibility for maintaining a high level of personnel training and squadron preparation for assessments.</li> 
+                        <li>Responsibility for the correct issuance of training programs.</li>
+                        <li>Responsible for staff preparation and evaluation.</li>
+                </ul>
+
+<br>
+
+ <p><b><ins>08/2018-2020</ins></b></p>
+                <p><b>Fighter Weapon School Instructor | Air Tactics Center</b></p>
+<ul>                                                                   
+                    <li>Advanced training to personnel of all three (3) branches (Army, Navy and Air Force) of the Hellenic Armed Forces.</li>
+                    <li>Research and testing of new methods and procedures, in order to improve the execution of Air Operations.</li>
+                    <li>Systematic monitoring of the military technological equipment development and studies, in order to enhance the Air Force’s combat capability.</li>
+                    <li>Cooperation, Planning and Execute Missions with personnel of all three (3) branches of the Hellenic Armed Forces.</li>
+                    <li>Planning and Execute Joint Engagement Zone Missions with Aircraft pilots and other Units.</li>
+                    
+ </ul>
+
+ <br>
+
+<p><b><ins>11/2010-01/2013</ins></b></p>
+                <p><b>Air Traffic Controller</b></p>
+                <ul>                                                                   
+                    <li>Monitor and direct the movement of aircraft on the ground and in the air.</li> 
+                    <li>Control all ground traffic at airport runways and taxiways.</li>
+                    <li>Issue takeoff and landing instructions to pilots.</li>
+                    <li>Transfer control of departing flights to other traffic control centers and accept control of arriving flights.</li>
+                    <li>Maintaining operational readiness, performed daily system monitoring.</li>
+                </ul>
+
+<br>
+
+ <p><b><ins>07/2010-Present</ins></b></p>
+                <p><b>Instructor - Evaluator</b></p>
+                <ul>                                                                   
+                    <li>Graduated from the School of Instructors, facilitated learning with creation of engaging written and oral assignments, and PowerPoint presentations, testing and evaluating students on materials presented in workshops and classes.</li> 
+                </ul>
+
+</details>
+
+<hr>
+
+<details>
+                <summary>Education & Qualifications</summary>
+                
+ <p><b>2024/05 - Present:</b> <i>Frontend Developer (W3Schools)</i></p>
+                <p><b>2024/05 - 2024/07:</b> <i>HTML Developer (Digital Badge Unique ID: <a href="https://verify.w3schools.com/1P16YUKR4X" target="_blank"> https://verify.w3schools.com/1P16YUKR4X </a> W3Schools).</i></p>
+                <p><b>2023/07 - 2023/12:</b> <i>Web Application Programming in HTML5, CSS3 and JavaScript (Certification Report and Number: (240/2023 and GR-DT 0012246) ACTA - Technoblastos of the Arisotelio University of Thessaloniki).</i></p>
+                <p><b>2023/05 - 2023/10:</b> <i>Web Design and Development (Certification ID: <a href="https://datalabs.edu.gr/Student/Certification/1747" target="_blank"> https://datalabs.edu.gr/Student/Certification/1747 </a> DataLabs Center for Lifelong Learning).</i></p>
+                <p><b>2010/11 - 2011/02:</b> <i>Air Traffic Controller (Ministry Of Infrastructure and Transport - Athens, Greece)</i></p>
+                <p><b>2006/09 – 2010/07:</b> <i>Diploma: Hellenic Air Force (HAF) - Air Defense Controller (Μinistry Οf Νational Defense - Hellenic Air Force Academy - Tatoi, Greece).</i></p>
+ </details>
+
+ <hr>
+
+ <details>
+                <summary>Soft Skills</summary>
+                <ul style="list-style-type:circle ;">
+                    <li>Critical thinking</li>
+                    <li>Team player</li>
+                    <li>Time management</li>
+                    <li>Self-discipline</li>
+                    <li>Reliable under pressure</li>
+                    <li>Empathy and kindness</li>
+                    <li>Problem-solver</li>
+                    <li>Consistency</li>
+                    <li>Keen attention to detail</li>
+                </ul>
+            </details>
+
+<hr>
+
+<details>
+                <summary>Languages</summary>
+                <br>
+                <div class="progress" role="progressbar" aria-label="Basic example" aria-valuenow="75" aria-valuemin="0" aria-valuemax="100">
+                    <div class="progress-bar" style="width: 100%">Greek</div>
+                </div>
+
+<br>
+
+<div class="progress" role="progressbar" aria-label="Basic example" aria-valuenow="75" aria-valuemin="0" aria-valuemax="100">
+                    <div class="progress-bar" style="width: 70%">English</div>
+ </div>
+
+ </details>
+
+ <hr>
+
+</section>
+
+
 
