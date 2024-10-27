@@ -27,125 +27,8 @@
             <img width=40 height=30 src="https://w7.pngwing.com/pngs/914/758/png-transparent-github-social-media-computer-icons-logo-android-github-logo-computer-wallpaper-banner-thumbnail.png" /> <img width=30 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" /> <img width=30 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />  <img width=30 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" /> <img width=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
          
 - *I have:*
-  
- 1. Over 16 years expierence as Tactical Control Officer of Patriot Air and Missile Defense System <img width=30 src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQe_PQWIhtKjaFDtWvga82BhOO1_k4iOXpLAGRIvmc2cnzsXj09KcoCtYCGUJgJk8NN4eU&usqp=CAU">
- 2. two years expirence as Pilot at Hellenic Air Force
- 3. two years experience as Air Traffic Controller
- 4. two years expirience as Instructor of Fighter Weapon School (Air Tactics Center)
- 5. Over 3 years as Lecturer of Hellenic Air Force NCO Academy
- 6. Over 8 years Chief Of Τraining and Standardization at Patriot Air and Missile Defense System
-  
 
- - <ins>**education and courses:**<ins>
-
-   1. I graduated from Hellenic Air Force Academy
-   3. Αccident Prevention Officer (course)
-   4. Air Traffic Controller (course)
-   5. Patriot Air and Missile Defense (course)
-   6. Ground Instructor (course)
-   7. Interdisciplinary Air Defense School (course)
-   8. Εnergy and Εnvironmental Μanagement of Αrmed Forces Units (course)
-    
- - <ins>**Web Developer (current courses**)<ins>
- 
-   - [x] <ins>**Completed<ins>**: <img width=30 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" /> 
-            <img width=30 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/woocommerce/woocommerce-original.svg" /> <img width=40 height=30 src="https://w7.pngwing.com/pngs/914/758/png-transparent-github-social-media-computer-icons-logo-android-github-logo-computer-wallpaper-banner-thumbnail.png" /> <img width=30 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" /> <img width=30 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /> <img width=30 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" /> <img width=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" /> <img width=30 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" />
-       
-   - [ ] <ins>**In progress courses<ins>**: w3schools HTML Fundamentals course.
-  ---
-  ## 💻 Favourite Tools and Technologies
-<div>
-<table align="center">
-  <tr>
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
-      <br>JavaScript
-    </td>
-  </tr>
-  <tr>
-        <td align="center" width="96"> 
-        <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" width="48" height="48" alt="Git" />
-      <br>Git
-    </td>
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="65" height="65" />
-      <br>Github
-    </td>
-           <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VsCode" />
-      <br>VsCode
-    </td>
-       </tr>
- <tr>
-    <td align="center"  width="96">
-        <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5" />
-      <br>HTML5
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="css" />
-      <br>CSS
-    </td>
-    <td align="center"  width="96">
-        <img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" alt="bootstrap" />
-      <br>Bootstrap
-    </td>
-  </tr>
- <tr>
-      <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=php" width="48" height="48" alt="php" />
-      <br>php
-    </td>
-        <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=MySQL" width="48" height="48" alt="MySQL" />
-      <br>MySQL
-      </td>
-      </td>
- </tr>
-</table>
-<br><br>
-</div>
-             
-   
-  ---
-
-  💻 My stats
-    
-  [![GitHub Streak](https://streak-stats.demolab.com?user=georgerv85)](https://git.io/streak-stats) 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=georgerv85&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats) 
-
----
-
-# Solar System
-
-## Planets
-1. **Mercury**
-2. **Venus**
-3. **Earth**
-   - Moon
-4. **Mars**
-5. **Jupiter**
-6. **Saturn**
-7. **Uranus**
-8. **Neptune**
-
-## Dwarf Planets
-- **Pluto**
-
-## Sun
-- The central star of our solar system.
----
-<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Gameplay.gif" alt="Mario Game" width="980">
-
-
-<details>
-                <summary>General Information</summary>
-                <p>Responsible Officer at Hellenic Air Force dedicated to successfully handling wide range of administrative and executive tasks. Skilled relationship builder comfortable working with different personalities. Certified in Web Development - Design offering knowledge of creation - design Web pages and solving code problems.
-                    Proven ability to deliver with utmost integrity and professionalism. Strong interpersonal and communication skills, enabling effective collaboration with cross-functional teams. Seeking opportunities to apply my skills and learn from experienced Web Developers professionals to further develop my career in the field.
-                </p>
- </details>
-
- <details>
+-  <details>
                 <summary>General Information</summary>
                 <p>Responsible Officer at Hellenic Air Force dedicated to successfully handling wide range of administrative and executive tasks. Skilled relationship builder comfortable working with different personalities. Certified in Web Development - Design offering knowledge of creation - design Web pages and solving code problems.
                     Proven ability to deliver with utmost integrity and professionalism. Strong interpersonal and communication skills, enabling effective collaboration with cross-functional teams. Seeking opportunities to apply my skills and learn from experienced Web Developers professionals to further develop my career in the field.
@@ -303,8 +186,120 @@
  </details>
 
  <hr>
+  
+ 1. Over 16 years expierence as Tactical Control Officer of Patriot Air and Missile Defense System <img width=30 src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQe_PQWIhtKjaFDtWvga82BhOO1_k4iOXpLAGRIvmc2cnzsXj09KcoCtYCGUJgJk8NN4eU&usqp=CAU">
+ 2. two years expirence as Pilot at Hellenic Air Force
+ 3. two years experience as Air Traffic Controller
+ 4. two years expirience as Instructor of Fighter Weapon School (Air Tactics Center)
+ 5. Over 3 years as Lecturer of Hellenic Air Force NCO Academy
+ 6. Over 8 years Chief Of Τraining and Standardization at Patriot Air and Missile Defense System
+  
 
-</section>
+ - <ins>**education and courses:**<ins>
+
+   1. I graduated from Hellenic Air Force Academy
+   3. Αccident Prevention Officer (course)
+   4. Air Traffic Controller (course)
+   5. Patriot Air and Missile Defense (course)
+   6. Ground Instructor (course)
+   7. Interdisciplinary Air Defense School (course)
+   8. Εnergy and Εnvironmental Μanagement of Αrmed Forces Units (course)
+    
+ - <ins>**Web Developer (current courses**)<ins>
+ 
+   - [x] <ins>**Completed<ins>**: <img width=30 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" /> 
+            <img width=30 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/woocommerce/woocommerce-original.svg" /> <img width=40 height=30 src="https://w7.pngwing.com/pngs/914/758/png-transparent-github-social-media-computer-icons-logo-android-github-logo-computer-wallpaper-banner-thumbnail.png" /> <img width=30 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" /> <img width=30 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /> <img width=30 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" /> <img width=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" /> <img width=30 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" />
+       
+   - [ ] <ins>**In progress courses<ins>**: w3schools HTML Fundamentals course.
+  ---
+  ## 💻 Favourite Tools and Technologies
+<div>
+<table align="center">
+  <tr>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
+      <br>JavaScript
+    </td>
+  </tr>
+  <tr>
+        <td align="center" width="96"> 
+        <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" width="48" height="48" alt="Git" />
+      <br>Git
+    </td>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="65" height="65" />
+      <br>Github
+    </td>
+           <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VsCode" />
+      <br>VsCode
+    </td>
+       </tr>
+ <tr>
+    <td align="center"  width="96">
+        <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5" />
+      <br>HTML5
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="css" />
+      <br>CSS
+    </td>
+    <td align="center"  width="96">
+        <img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" alt="bootstrap" />
+      <br>Bootstrap
+    </td>
+  </tr>
+ <tr>
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=php" width="48" height="48" alt="php" />
+      <br>php
+    </td>
+        <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=MySQL" width="48" height="48" alt="MySQL" />
+      <br>MySQL
+      </td>
+      </td>
+ </tr>
+</table>
+<br><br>
+</div>
+             
+   
+  ---
+
+  💻 My stats
+    
+  [![GitHub Streak](https://streak-stats.demolab.com?user=georgerv85)](https://git.io/streak-stats) 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=georgerv85&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats) 
+
+---
+
+# Solar System
+
+## Planets
+1. **Mercury**
+2. **Venus**
+3. **Earth**
+   - Moon
+4. **Mars**
+5. **Jupiter**
+6. **Saturn**
+7. **Uranus**
+8. **Neptune**
+
+## Dwarf Planets
+- **Pluto**
+
+## Sun
+- The central star of our solar system.
+---
+<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Gameplay.gif" alt="Mario Game" width="980">
+
+
+
+
+
 
 
 
