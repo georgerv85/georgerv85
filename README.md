@@ -12,6 +12,10 @@
 <img width=70 src="https://img.shields.io/badge/youtube-red"/> 
 </a> 
 
+<a href="[https://www.youtube.com/channel/UCJIZe9277-JD9GGzMVaXvfA](https://www.instagram.com/arvanitis_georg/)" target="_blank"> 
+<img width=70 src="https://img.shields.io/badge/instagram-red"/> 
+</a> 
+
 
 ![](https://komarev.com/ghpvc/?username=georgerv85-github-username&style=flat-square)
 </div>
@@ -26,8 +30,6 @@
             <img width=30 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/woocommerce/woocommerce-original.svg" />
             <img width=40 height=30 src="https://w7.pngwing.com/pngs/914/758/png-transparent-github-social-media-computer-icons-logo-android-github-logo-computer-wallpaper-banner-thumbnail.png" /> <img width=30 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" /> <img width=30 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />  <img width=30 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" /> <img width=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
          
-- *I have:*
-
 <details>
                 <summary>General Information</summary>
                 <p>Responsible Officer at Hellenic Air Force dedicated to successfully handling wide range of administrative and executive tasks. Skilled relationship builder comfortable working with different personalities. Certified in Web Development - Design offering knowledge of creation - design Web pages and solving code problems.
