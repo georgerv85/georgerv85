@@ -176,20 +176,20 @@
                 <summary>Languages</summary>
                 <br>
                 <div class="progress" role="progressbar" aria-label="Basic example" aria-valuenow="75" aria-valuemin="0" aria-valuemax="100">
-                    <div class="progress-bar" style="width: 100%">Greek</div>
+                    <div class="progress-bar" style="width: 100%">Greek 100%</div>
                 </div>
 
 <br>
 
 <div class="progress" role="progressbar" aria-label="Basic example" aria-valuenow="75" aria-valuemin="0" aria-valuemax="100">
-                    <div class="progress-bar" style="width: 70%">English</div>
+                    <div class="progress-bar" style="width: 70%">English 80%</div>
  </div>
 
  </details>
 
  <hr>
   
-  ---
+
   ## 💻 Favourite Tools and Technologies
 <div>
 <table align="center">
