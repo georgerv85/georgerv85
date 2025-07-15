@@ -59,6 +59,8 @@
                             PHP Website Development, Graphical User Interface (GUI) using CSS, 
                             Object Oriented Programming
                         </li>
+                        <li>React (Next,API)
+                        </li>
                     </ul>
 </details>
 
