@@ -149,7 +149,7 @@
 <details>
                 <summary>Education & Qualifications</summary>
 
-<p><b>2025/01</b> <i>OnEdu (W3Schools)</i></p>
+<p><i>OnEdu</i></p>
                 <p><b>2024/09 - 2024/12:</b> <i>React.Js</i></p>
                 
  <p><b>2024/05 - Present:</b> <i>Frontend Developer (W3Schools)</i></p>
