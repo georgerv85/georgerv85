@@ -148,6 +148,9 @@
 
 <details>
                 <summary>Education & Qualifications</summary>
+
+<p><b>2025/01</b> <i>OnEdu (W3Schools)</i></p>
+                <p><b>2024/09 - 2024/12:</b> <i>React.Js</i></p>
                 
  <p><b>2024/05 - Present:</b> <i>Frontend Developer (W3Schools)</i></p>
                 <p><b>2024/05 - 2024/07:</b> <i>HTML Developer (Digital Badge Unique ID: <a href="https://verify.w3schools.com/1P16YUKR4X" target="_blank"> https://verify.w3schools.com/1P16YUKR4X </a> W3Schools).</i></p>
